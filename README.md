@@ -208,17 +208,13 @@ trip_planner/
 tests/                      Automated test suite
 templates/map.html          Leaflet demonstration UI
 data/                       Source prices and coordinate seed
-docs/                       Architecture and Loom guide
+docs/                       Architecture documentation
 postman/                    Postman collection
 ```
 
 ## Postman
 
 Import [postman/Fuel-Route-Optimizer.postman_collection.json](postman/Fuel-Route-Optimizer.postman_collection.json). It includes short-route, long-route, and invalid-request examples with basic response assertions.
-
-## Loom Demo
-
-Follow [docs/LOOM_DEMO.md](docs/LOOM_DEMO.md) for a concise 4–4½ minute walkthrough. No Loom URL is committed yet.
 
 ## Production Improvements
 
